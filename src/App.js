@@ -1,11 +1,12 @@
 import './App.css';
+import Calculator from './components/Calculator';
+import Navbar from './components/Navbar';
 
-function App() {
-	return (
-		<div className="App">
-			<h1>Welcome</h1>
-		</div>
-	);
-}
+const App = () => (
+	<>
+		<Navbar />
+		<Calculator />
+	</>
+);
 
 export default App;
