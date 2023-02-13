@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project link is: [Project Deployed Link](https://grape-law-firm-calculator-project.netlify.app/).
+
 ### Project Description
 
 This Calculator project is a job assessment test for Grape Law Firm. It is built using HTML, CSS and JavaScript. Its scope is designed to perform an operation on at least two numbers and report basic errors. The project is open for further modifications and improvements.
@@ -15,7 +17,7 @@ This Calculator project is a job assessment test for Grape Law Firm. It is built
 ## Getting Started
 
 **Instructions on setting up your project locally.**
-The project could be accessed by visiting the website link.
+The project could be accessed by cloning the Repo.
 
 ### `npm start`
 
